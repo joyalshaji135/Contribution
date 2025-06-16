@@ -14,8 +14,3 @@ console.log("Welcome new world !!");
 console.log("Welcome new world !!");
 console.log("Welcome new world !!");
 
-
-AHSKJDHKAJS
-KASKJDHKJAS
-JASHKJDHKJAS
-KKJASHKJD
